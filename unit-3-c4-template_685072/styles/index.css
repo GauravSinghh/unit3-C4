@@ -1,0 +1,16 @@
+#box{
+    display: flex;
+}
+img{
+    height: 150px;
+    width: 250px;
+}
+
+.news{
+    display: flex;
+    padding: 10px;
+}
+
+#in,#ch,#us,#uk,#nz,#countries{
+    cursor: pointer;
+}

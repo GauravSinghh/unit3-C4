@@ -1,0 +1,9 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+#search_input{
+    width: 70%;
+    border-radius: 15px;
+   
+}
